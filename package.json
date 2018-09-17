@@ -48,7 +48,7 @@
 		"@types/detect-newline": "^2.1.0",
 		"@types/fs-extra": "^5.0.4",
 		"@types/jest": "^23.0.0",
-		"@types/node": "^10.1.2",
+		"@types/node": "^10.10.0",
 		"codecov": "^3.0.2",
 		"jest": "^23.1.0",
 		"release-rules-peakfijn": "^0.8.0",
