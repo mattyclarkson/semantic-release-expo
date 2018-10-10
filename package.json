@@ -47,7 +47,7 @@
 		"@types/detect-indent": "^5.0.0",
 		"@types/detect-newline": "^2.1.0",
 		"@types/fs-extra": "^5.0.4",
-		"@types/jest": "^23.0.0",
+		"@types/jest": "^23.3.6",
 		"@types/node": "^10.1.2",
 		"codecov": "^3.0.2",
 		"conventional-changelog-peakfijn": "^0.8.0",
